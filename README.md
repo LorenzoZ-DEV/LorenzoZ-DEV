@@ -13,3 +13,6 @@
     </td>
   </tr>
 </table>
+  <picture>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/zt64/zt64/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
