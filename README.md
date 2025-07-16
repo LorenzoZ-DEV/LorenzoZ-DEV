@@ -1,15 +1,15 @@
 
-# Ｌｏｒｅｎｚ
-
-
-![Logo](https://art.pixilart.com/sr20cb1e208e634.gif)
-
-
-## 🚀 About Me
-𝙸'𝚖 𝟷𝟿 𝚢𝚛𝚜 𝚘𝚕𝚍 𝚊𝚗𝚍 𝚒'𝚖 𝚏𝚛𝚘𝚖 𝙸𝚝𝚊𝚕𝚢   
-𝙸'𝚖 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊𝚗𝚍 𝚊𝚕𝚠𝚊𝚢𝚜 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚗𝚎𝚠 𝚌𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜.   
-𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚒𝚖𝚙𝚛𝚘𝚟𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗 𝙹𝚊𝚟𝚊, 𝙲#, 𝙼𝚢𝚂𝚀𝙻, 𝙼𝚘𝚗𝚐𝚘𝙳𝙱, 𝚊𝚗𝚍 𝚁𝚎𝚊𝚌𝚝.   
-𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚒𝚗𝚎𝚌𝚛𝚊𝚏𝚝 𝚙𝚕𝚞𝚐𝚒𝚗𝚜, 𝙵𝚛𝚘𝚗𝚝 𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 , 𝚘𝚛 𝚆𝚎𝚋𝚜𝚒𝚝𝚎𝚜   𝚈𝚘𝚞 𝚌𝚊𝚗 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚘𝚗 𝙳𝚒𝚜𝚌𝚘𝚛𝚍! @𝚟𝚊𝚗𝚒𝚡𝚢
- 
-## 🛠 Skills
-HTML, Java, CSS , C# 
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="(https://art.pixilart.com/sr20cb1e208e634.gif" width="350" alt="Coding Animation">
+    </td>
+    <td style="padding-left: 20px; vertical-align: middle;">
+      <samp>
+        i code random stuff
+        <br>
+        c#, js, ts, html, css, python, java
+      </samp>
+    </td>
+  </tr>
+</table>
