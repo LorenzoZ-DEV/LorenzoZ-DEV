@@ -8,11 +8,8 @@
       <samp>
         i code random stuff
         <br>
-        c#, js, ts, html, css, python, java
+        ![](https://skillicons.dev/icons?i=js,ts,html,css,java,,cs,lua)
       </samp>
     </td>
   </tr>
 </table>
-  <picture>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/LorenzoZ-DEV/LorenzoZ-DEV/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
